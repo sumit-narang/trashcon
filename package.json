@@ -1,0 +1,25 @@
+{
+  "name": "trashcon",
+  "version": "2.0.0",
+  "description": "TrashCon convert mixed waste into Bio-Degradable and Non-Biodegradable Waste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumit-narang/trashcon.git"
+  },
+  "keywords": [
+    "waste-management",
+    "bio-degradable",
+    "waste",
+    "non-biodegradable-waste"
+  ],
+  "author": "Sumit Narang <sumitnarang.web@gmail.com> (https://sumitnarang.in/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sumit-narang/trashcon/issues"
+  },
+  "homepage": "https://github.com/sumit-narang/trashcon#readme"
+}
